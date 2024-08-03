@@ -1,2 +1,2 @@
 # Reminder
-I guess my biggest program for now
+Program that helps you to remind everu thing 
